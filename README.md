@@ -1,2 +1,2 @@
 # noorazam.github.io
-Personal website showcasing --
+Personal website showcasing projects and experience
